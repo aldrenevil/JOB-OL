@@ -32,5 +32,7 @@ php artisan serve
 ```
 ## License
 
-Referenced from Laragigs by BradTraversy/TraversyMedia
+Referenced from Laragigs by BradTraversy/TraversyMedia.
+
+
 The JOB-OL app is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
